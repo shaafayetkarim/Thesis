@@ -1,3 +1,5 @@
-
 main.pdf
+*.synctex.gz
+
+*.pdf
 *.synctex.gz
